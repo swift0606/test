@@ -1,15 +1,12 @@
-1
-2
-3
-4
-5
-6
-888888
-QQQQQQ
+<?php
 
 
-111111111111111111111111111111111
-kkkkkkkkkkkkkk
-			kk
-			kk
-kkkkkkkkkkkkkk
+
+
+
+echo 111111111;
+
+
+
+
+?>

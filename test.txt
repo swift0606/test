@@ -5,8 +5,8 @@
 print_r(array());
 
 
-
 echo 'loc'; 
+
 
 
 var_dump(array());

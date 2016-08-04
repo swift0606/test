@@ -1,6 +1,6 @@
 <?php
 
-
+echo 'AAAAAAAAAAAAAA';
 
 print_r(array());
 

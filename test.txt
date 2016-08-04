@@ -4,7 +4,10 @@
 
 
 
-echo 111111111;
+
+
+
+var_dump(array());
 
 
 

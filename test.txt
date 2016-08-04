@@ -1,12 +1,7 @@
 <?php
 
 
-
-
-phpinfo();
-
-echo 1111111113333333333333333;
-
+print_r(array());
 
 
 

@@ -1,20 +1,12 @@
 <?php
 
-echo 'BBBBBBBBBBBBBBBB';
-
-print_r(array());
+echo 999;
 
 
-echo 'localhost'; 
-
-
-
-var_dump(array());
-
+echo 111;
 
 
 echo 333;
-
 
 
 

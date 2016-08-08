@@ -1,12 +1,10 @@
 <?php
 
+
 echo 999;
 
 
 echo 111;
-
-
-echo 333;
 
 
 
